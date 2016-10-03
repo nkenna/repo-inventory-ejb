@@ -1,0 +1,6 @@
+{
+  "name": "Repo-inventory-ejb",
+  "tagline": "EJB Module for InventoryBeer",
+  "body": "### Welcome to GitHub Pages.\r\n\r\nThis project is the ejb module for [InventoryBeer_GUI](https://github.com/nkenna/InventoryBeer_GUI) (GUI), [InventoryBeer-JSF](https://github.com/nkenna/repo-InventoryBeer-JSF) (JSF) and [InventoryBeer-WS](https://github.com/nkenna/repo-inventoryBeer-ws) (Web Service).\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
